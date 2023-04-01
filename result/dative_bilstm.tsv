@@ -1,0 +1,4 @@
+Sentence	Correct Tags	Predicted Tags
+Jessica  teaching her son the alphabet.	['B-ARG0', 'B-V', 'B-ARG2', 'I-ARG2', 'B-ARG1', 'I-ARG1', 'O']	['O', 'B-V', 'B-ARG2', 'I-ARG2', 'B-ARG1', 'I-ARG1', 'O']
+Kevin  sent his girlfriend some flowers.	['B-ARG0', 'B-V', 'B-ARG2', 'I-ARG2', 'B-ARG1', 'I-ARG1', 'O']	['B-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'B-ARG2', 'I-ARG2', 'O']
+Hannah  sends her friends a video.	['B-ARG0', 'B-V', 'B-ARG2', 'I-ARG2', 'B-ARG1', 'I-ARG1', 'O']	['B-ARG0', 'B-V', 'B-ARG2', 'B-ARG2', 'B-ARG1', 'I-ARG1', 'O']

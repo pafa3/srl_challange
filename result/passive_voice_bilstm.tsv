@@ -1,0 +1,12 @@
+Sentence	Correct Tags	Predicted Tags
+The  cake was baked by the chef.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The  bread was baked by the chef.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The  pie was baked by the chef.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The  dish was baked by the chef.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The  pastry was baked by the chef.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The cake was  baked by the chef.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The cake was baked by the baker.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The cake was baked by the chef.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The cake was baked by the bakery.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The cake was baked by the chefs.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']
+The cake was baked by the Queen.	['O', 'O', 'B-V', 'O', 'O', 'O', 'O', 'O']	['B-ARG1', 'I-ARG1', 'B-V', 'B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'O']

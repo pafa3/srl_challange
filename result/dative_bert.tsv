@@ -1,0 +1,4 @@
+Sentence	Correct Tags	Predicted Tags
+Kevin  bought his girlfriend some flowers.	['B-ARG0', 'B-V', 'B-ARG2', 'I-ARG2', 'B-ARG1', 'I-ARG1', 'O']	['B-ARG0', 'B-V', 'B-ARG4', 'I-ARG4', 'B-ARG1', 'I-ARG1', 'O']
+Mark  bought his son a toy.	['B-ARG0', 'B-V', 'B-ARG2', 'I-ARG2', 'B-ARG1', 'I-ARG1', 'O']	['B-ARG0', 'B-V', 'B-ARG4', 'I-ARG4', 'B-ARG1', 'I-ARG1', 'O']
+Mark  buys his son a toy.	['B-ARG0', 'B-V', 'B-ARG2', 'I-ARG2', 'B-ARG1', 'I-ARG1', 'O']	['B-ARG0', 'B-V', 'B-ARG4', 'I-ARG4', 'B-ARG1', 'I-ARG1', 'O']

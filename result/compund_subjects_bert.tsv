@@ -1,0 +1,2 @@
+Sentence	Correct Tags	Predicted Tags
+The sun and  rays lit the sky.	['B-ARG0', 'I-ARG0', 'I-ARG0', 'I-ARG0', 'B-V', 'B-ARG1', 'I-ARG1', 'O']	['B-ARG2', 'I-ARG2', 'I-ARG2', 'I-ARG2', 'B-V', 'B-ARG1', 'I-ARG1', 'O']

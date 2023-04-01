@@ -1,0 +1,342 @@
+[
+    {
+        "sentence": "Jessica  teaches her son the alphabet.",
+        "labels": [
+            {
+                "verb": "teaches",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Jessica  taught her son the alphabet.",
+        "labels": [
+            {
+                "verb": "taught",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Jessica  teaching her son the alphabet.",
+        "labels": [
+            {
+                "verb": "teaching",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Jessica  showed her son the alphabet.",
+        "labels": [
+            {
+                "verb": "showed",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Jessica  handed her son the alphabet.",
+        "labels": [
+            {
+                "verb": "handed",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Kevin  gave his girlfriend some flowers.",
+        "labels": [
+            {
+                "verb": "gave",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Kevin  bought his girlfriend some flowers.",
+        "labels": [
+            {
+                "verb": "bought",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Kevin  sent his girlfriend some flowers.",
+        "labels": [
+            {
+                "verb": "sent",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Kevin  brought his girlfriend some flowers.",
+        "labels": [
+            {
+                "verb": "brought",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Kevin  showed his girlfriend some flowers.",
+        "labels": [
+            {
+                "verb": "showed",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Hannah  sends her friends a video.",
+        "labels": [
+            {
+                "verb": "sends",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Hannah  sent her friends a video.",
+        "labels": [
+            {
+                "verb": "sent",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Hannah  showed her friends a video.",
+        "labels": [
+            {
+                "verb": "showed",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Hannah  showing her friends a video.",
+        "labels": [
+            {
+                "verb": "showing",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Hannah  sending her friends a video.",
+        "labels": [
+            {
+                "verb": "sending",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Mark  bought his son a toy.",
+        "labels": [
+            {
+                "verb": "bought",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Mark  gave his son a toy.",
+        "labels": [
+            {
+                "verb": "gave",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Mark  buys his son a toy.",
+        "labels": [
+            {
+                "verb": "buys",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Mark  gives his son a toy.",
+        "labels": [
+            {
+                "verb": "gives",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "Mark  handed his son a toy.",
+        "labels": [
+            {
+                "verb": "handed",
+                "tags": [
+                    "B-ARG0",
+                    "B-V",
+                    "B-ARG2",
+                    "I-ARG2",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    }
+]

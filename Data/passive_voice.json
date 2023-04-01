@@ -1,0 +1,2327 @@
+[
+    {
+        "sentence": "The  cake was baked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  bread was baked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  pie was baked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  dish was baked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  pastry was baked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was  baked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was  prepared by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "prepared",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was  decorated by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "decorated",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was  eaten by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "eaten",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was  cooked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "cooked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was baked by the baker.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was baked by the chef.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was baked by the bakery.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was baked by the chefs.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cake was baked by the Queen.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "baked",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  parcel was delivered by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  package was delivered by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  shipment was delivered by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  letter was delivered by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  item was delivered by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was  intercepted by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "intercepted",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was  received by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "received",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was  returned by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "returned",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was  forwarded by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "forwarded",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was  delivered by the courier.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was delivered by the BBC.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was delivered by the speaker.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was delivered by the Speaker.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was delivered by the governor.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The message was delivered by the minister.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "delivered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  damage was repaired by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  leak was repaired by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  problem was repaired by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  hole was repaired by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  issue was repaired by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was  repaired by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was  confiscated by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "confiscated",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was  seized by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "seized",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was  recovered by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "recovered",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was  inspected by the technician.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "inspected",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was repaired by the manufacturer.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was repaired by the company.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was repaired by the contractor.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was repaired by the vendor.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The computer was repaired by the university.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "repaired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  article was written by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  column was written by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  essay was written by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  book was written by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  report was written by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was  written by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was  edited by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "edited",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was  published by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "published",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was  reviewed by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "reviewed",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was  commissioned by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "commissioned",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was written by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was written by the publisher.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was written by the authors.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was written by the writer.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The book was written by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "written",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  mural was created by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  artwork was created by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  sculpture was created by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  painting was created by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  logo was created by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was  commissioned by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "commissioned",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was  painted by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "painted",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was  created by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was  inspired by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "inspired",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was  completed by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "completed",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was created by the artist.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was created by the artists.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was created by the author.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was created by the composer.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The painting was created by the architects.",
+        "labels": [
+            {
+                "verb": "was",
+                "tags": [
+                    "O",
+                    "O",
+                    "B-V",
+                    "O",
+                    "O",
+                    "O",
+                    "O",
+                    "O"
+                ]
+            },
+            {
+                "verb": "created",
+                "tags": [
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O",
+                    "B-V",
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "O"
+                ]
+            }
+        ]
+    }
+]

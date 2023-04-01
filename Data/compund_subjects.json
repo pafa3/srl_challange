@@ -1,0 +1,902 @@
+[
+    {
+        "sentence": "The  cat and dog chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  dog and dog chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  kitten and dog chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  squirrel and dog chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  monkey and dog chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cat and  mouse chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cat and  dog chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cat and  kittens chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cat and  rabbit chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The cat and  squirrel chased the ball.",
+        "labels": [
+            {
+                "verb": "chased",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  mom and dad helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  mum and dad helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  mother and dad helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  moms and dad helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  husband and dad helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The mom and  dad helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The mom and  father helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The mom and  aunt helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The mom and  sister helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The mom and  grandmother helped the child.",
+        "labels": [
+            {
+                "verb": "helped",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  boy and girl played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  boys and girl played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  guy and girl played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  man and girl played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  woman and girl played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The boy and  girl played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The boy and  sister played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The boy and  girls played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The boy and  daughter played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The boy and  boy played the game.",
+        "labels": [
+            {
+                "verb": "played",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  stars and rays lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  sun and rays lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  clouds and rays lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  lights and rays lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  smoke and rays lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The sun and  moon lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The sun and  stars lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The sun and  clouds lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The sun and  sunset lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The sun and  rays lit the sky.",
+        "labels": [
+            {
+                "verb": "lit",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  chef and crew made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  cast and crew made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  chefs and crew made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  cook and crew made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The  cooks and crew made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The chef and  crew made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The chef and  waiter made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The chef and  cooks made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The chef and  waitress made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    },
+    {
+        "sentence": "The chef and  cook made the dish.",
+        "labels": [
+            {
+                "verb": "made",
+                "tags": [
+                    "B-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "I-ARG0",
+                    "B-V",
+                    "B-ARG1",
+                    "I-ARG1",
+                    "O"
+                ]
+            }
+        ]
+    }
+]
